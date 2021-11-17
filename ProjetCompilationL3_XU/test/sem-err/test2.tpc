@@ -1,0 +1,20 @@
+
+
+int yikes (int x) {
+	return 0;
+}
+
+int main(void) {
+
+    int a, b, et, ou;
+    char a;
+    a = 0;
+    b = 1;
+
+    et = a && b;
+    ou = a || b;
+
+    print(et); print(ou);
+
+    return 0;
+}
